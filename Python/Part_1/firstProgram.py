@@ -1,0 +1,5 @@
+print("hello world")
+print("My name is Abinav")
+print(20)
+print("My name is Abhi", "I'm a student")
+print(23+45)
